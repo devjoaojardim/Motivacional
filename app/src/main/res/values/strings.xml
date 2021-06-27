@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Motivacional</string>
+    <string name="vamos_comecar">Vamos começar?</string>
+    <string name="qual_seu_nome">Qual seu nome?</string>
+    <string name="salvarButon">salvar</string>
+    <string name="adc_toast">Você precisa adcionar o nome para continua!</string>
+    <string name="nova_frase_button">Nova Frase</string>
+</resources>
