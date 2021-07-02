@@ -1,0 +1,10 @@
+<resources>
+    <string name="salvarButon">save</string>
+    <string name="vamos_comecar">Let´s get started?</string>
+    <string name="qual_seu_nome">What´s your name?</string>
+
+
+    <string name="app_name">Motivation</string>
+    <string name="adc_toast">You need to add the name to continue!</string>
+    <string name="nova_frase_button">New Phrase</string>
+</resources>
